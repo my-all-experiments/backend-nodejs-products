@@ -4,7 +4,7 @@
   "description": "Node CRUD operations",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "start index.js"
   },
   "author": "Manpreet Singh",
   "license": "ISC",
